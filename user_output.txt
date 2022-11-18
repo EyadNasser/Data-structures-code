@@ -1,0 +1,17 @@
+ CHARACTER STATS
+Name:valk
+Personality: aggresive
+Age:26
+Gender: male
+Humanity:200
+Faction: samurai
+ # of Cybernetics:10
+Sanity:4
+ Rival STATS
+Name:bangalore
+Level:200
+Health:1000
+Humanity:0
+Faction: Cyborgs
+ # of Cybernetics:20
+Sanity:0

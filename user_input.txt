@@ -1,0 +1,2 @@
+valk, aggresive, 26, male, 200, samurai, 10
+bangalore, 200, 1000, 0, Cyborgs, 20  
